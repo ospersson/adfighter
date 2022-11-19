@@ -1,0 +1,152 @@
+127.0.0.1       localhost
+127.0.1.1       8460p
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+# 0-9
+0.0.0.0	ad.360yield.com
+
+# A
+0.0.0.0	afcdn.net
+0.0.0.0 adform.net
+0.0.0.0	adx.adform.net
+0.0.0.0	track.adform.net
+0.0.0.0 adnxs.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0	acdn.adnxs-simple.com
+0.0.0.0 graphics.adrecord.com
+0.0.0.0	dt.adsafeprotected.com
+0.0.0.0	advisible.com
+0.0.0.0	api.placement.advisible.com
+0.0.0.0	cdn.advisible.com
+0.0.0.0	source.advisible.com
+0.0.0.0	adtng.com
+0.0.0.0	ads.adthrive.com
+0.0.0.0	c.amazon-adsystem.com
+0.0.0.0	macro.adnami.io
+0.0.0.0	match.adsrvr.org
+
+# B
+0.0.0.0	c.bannerflow.net
+0.0.0.0	bannerflow.net
+0.0.0.0	bonad.io
+0.0.0.0	assets.bonad.io
+0.0.0.0	tracking.bonad.io
+0.0.0.0	tracking.bonnier.news
+0.0.0.0 brandmetrics.com
+0.0.0.0	cdn.brandmetrics.com
+
+# C
+0.0.0.0	cornucopia.compricer.se
+0.0.0.0	resources.compricer.se
+0.0.0.0	codigo.se
+0.0.0.0	analytics.codigo.se
+0.0.0.0	quantcast.mgr.consensu.org
+0.0.0.0	cdn.cookielaw.org
+0.0.0.0	dis.criteo.com
+0.0.0.0	comcluster.cxense.com
+
+# D
+0.0.0.0	doubleclick.net
+0.0.0.0	ad.doubleclick.net
+0.0.0.0	googleads.g.doubleclick.net
+0.0.0.0	securepubads.g.doubleclick.net
+0.0.0.0	static.doubleclick.net
+0.0.0.0	dynamicyield.com
+0.0.0.0	async-px.dynamicyield.com
+
+# E
+0.0.0.0	a.exdynsrv.com
+0.0.0.0	ads.exoclick.com
+
+# G
+0.0.0.0	pixel.glimr.io
+
+# Google services
+0.0.0.0	adservice.google.com
+0.0.0.0	adservice.google.se
+0.0.0.0	google-analytics.com
+0.0.0.0	ssl.google-analytics.com
+0.0.0.0	googletagmanager.com
+0.0.0.0	www.googletagmanager.com
+0.0.0.0	partner.googleadservices.com
+0.0.0.0	pagead2.googlesyndication.com
+
+# H
+0.0.0.0	ads.holid.io
+# I
+0.0.0.0	iteratehq.com
+0.0.0.0	platform.iteratehq.com
+
+# K
+0.0.0.0	kickfire.com
+0.0.0.0	twin-iq.kickfire.com
+
+# Meta services
+0.0.0.0	scontent-iad3-2.cdninstagram.com
+
+# L
+0.0.0.0	lwadm.com
+0.0.0.0	content.lwadm.com
+
+# O
+0.0.0.0	cdn.onesignal.com/
+0.0.0.0	cdn.onthe.io
+0.0.0.0	privacyportal-de.onetrust.com
+
+# P
+0.0.0.0	widget.publit.com
+0.0.0.0	ads.pubmatic.com
+0.0.0.0	hbopenbid.pubmatic.com
+0.0.0.0	sdk.privacy-center.org
+0.0.0.0	permutive.com
+0.0.0.0	api.permutive.com
+0.0.0.0	jadserve.postrelease.com
+
+# Q
+0.0.0.0 cmp.quantcast.com
+0.0.0.0	rules.quantcount.com
+0.0.0.0	secure.quantcount.com
+
+# R
+0.0.0.0	inviso.rampanel.com
+0.0.0.0	app.readpeak.com
+0.0.0.0	syndication.realsrv.com
+0.0.0.0 research-int.se
+0.0.0.0	ads.rubiconproject.com
+
+# S
+0.0.0.0 video.seenthis.se
+0.0.0.0 ingest.sentry.io
+0.0.0.0	serving-sys.com
+0.0.0.0	a.shukriya90.com
+0.0.0.0	amd.sellingsimplified.net
+0.0.0.0	collector.schibsted.io
+0.0.0.0	snapengage.com
+
+# T
+0.0.0.0	tsyndicate.com
+0.0.0.0	cdn.tsyndicate.com
+0.0.0.0	lcdn.tsyndicate.com
+0.0.0.0	pxl.tsyndicate.com
+0.0.0.0	cdn.twinrdsrv.com
+
+# Z
+0.0.0.0	zeher.se
+
+# V-W
+0.0.0.0	cdn.viglink.com
+0.0.0.0	cti.w55c.net
+0.0.0.0	bot.webpushr.com
+0.0.0.0	cdn.webpushr.com
+
+# NSFW
+0.0.0.0	hw-cdn2.ang-content.com
+0.0.0.0	nudevista.com
+0.0.0.0	cambaddies.com
